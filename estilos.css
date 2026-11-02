@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf4ff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 35px;
+}
+
+main {
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+}
+
+.entrada {
+    background-color: white;
+    margin-bottom: 30px;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px #aaa;
+}
+
+.entrada img {
+    width: 100%;
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.entrada h2 {
+    color: #2468a2;
+}
+
+.entrada p {
+    font-size: 17px;
+    line-height: 1.6;
+}
